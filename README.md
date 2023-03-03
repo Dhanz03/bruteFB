@@ -28,7 +28,8 @@ $ ls
 
 $ python premium.py
 
-
+Admind Menyediakan Sc Nya Ada 4 Sc Tinggal Cobain
+Dan Sukuri Hasilnya Moga Suport Device kalian 📂
 
 # TQ JANGAN LUPA FOLOW AND STAR 🌟💖
 
