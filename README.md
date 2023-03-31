@@ -34,7 +34,7 @@ $ cd bruteFB
 
 $ ls 
 
-$ python premium.py
+$ python Udin-XR.py
 
 # COMAD KE 2 PREM TANPA LINENSI 
 
