@@ -36,7 +36,7 @@ $ ls
 
 $ python Udin-XR.py
 
-# COMAD KE 2 PREM TANPA LINENSI 
+# COMAD KE 2 Boss
 
 $ git clone https://github.com/Dhanz03/bruteFB
 
@@ -44,7 +44,10 @@ $ git pull
 
 $ cd bruteFB
 
-$ python premDZ.py 
+$ python Udin2-XR.py
+
+# git pull kalo Ga ke update coba setelah cd bruteFB Trus git pull 
+
 
 
 Admind Menyediakan Sc Nya Ada 4 Sc Tinggal Cobain
