@@ -34,7 +34,7 @@ $ cd bruteFB
 
 $ ls 
 
-$ python Udin-XR.py
+$ python Udin3-XR.py
 
 # COMAD KE 2 Boss
 
