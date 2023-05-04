@@ -34,7 +34,7 @@ $ cd bruteFB
 
 $ ls 
 
-$ python Udin3-XR.py
+$ python Udin-Sad.py
 
 # COMAD KE 2 Boss
 
@@ -44,7 +44,7 @@ $ git pull
 
 $ cd bruteFB
 
-$ python Udin2-XR.py
+$ python Udin3-XR.py
 
 # git pull kalo Ga ke update coba setelah cd bruteFB Trus git pull 
 
@@ -55,7 +55,7 @@ Dan Sukuri Hasilnya Moga Suport Device kalian 📂
 
 # TQ JANGAN LUPA FOLOW AND STAR 🌟💖
 
-# New Update Metod Ada 4 Mobile , Free ,xfacebook, dfacebook
+# New Update Metod Ada 6 Mobile , Free ,xfacebook, dfacebook , DeveloperFacebook
 
 
 <!---
@@ -70,9 +70,9 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Dhanz](https://github.com/Dhanz03/fbnew1)
+- 💖 I’m currently working on [Dhanz](https://github.com/Dhanz03/fbnew1)
 
-- 🌱 I’m currently learning **Help Develop By Giving Star and follow**
+- 🚀 I’m currently learning **Help Develop By Giving Star and follow**
 
 - 💬 Ask me about **hey how are you I hope you are well**
 
