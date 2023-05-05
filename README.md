@@ -48,9 +48,11 @@ $ python Udin3-XR.py
 
 # git pull kalo Ga ke update coba setelah cd bruteFB Trus git pull 
 
+# Update My Script Crack Facebook
 
+<img align="righ" alt="Coding" width="400" src="https://user-images.githubusercontent.com/114796156/236391886-3acb743b-5baa-4034-b198-64a4d714a79c.jpg">
 
-Admind Menyediakan Sc Nya Ada 4 Sc Tinggal Cobain
+Admind Menyediakan Sc Nya Ada 6 Sc Tinggal Cobain
 Dan Sukuri Hasilnya Moga Suport Device kalian 📂
 
 # TQ JANGAN LUPA FOLOW AND STAR 🌟💖
