@@ -72,14 +72,6 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 💖 I’m currently working on [Dhanz](https://github.com/Dhanz03/fbnew1)
-
-- 🚀 I’m currently learning **Help Develop By Giving Star and follow**
-
-- 💬 Ask me about **hey how are you I hope you are well**
-
-- 📫 How to reach me **cheneldan088@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/dan doank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dan doank" height="30" width="40" /></a>
