@@ -2,7 +2,6 @@
 UPGRADE KE PREMIUM UNTUK MENCOBA SEMUA SCRIPT NYA ENJOY 📂
 ```
 
-
 # bruteFB 
 
 # User Premium Only 💖
