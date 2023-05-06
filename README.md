@@ -1,48 +1,85 @@
-# UPGRADE KE PREMIUM UNTUK MENCOBA SEMUA SCRIPT NYA ENJOY 📂
-
+```
+UPGRADE KE PREMIUM UNTUK MENCOBA SEMUA SCRIPT NYA ENJOY 📂
+```
 
 
 # bruteFB 
 
-#User Premium Only 💖
+# User Premium Only 💖
 
+```
 $ pkg update && pkg upgrade
+```
 
+```
 $ pkg install git
+```
 
+```
 $ pkg install python
+```
 
+```
 $ pip install mechanize
+```
 
+```
 $ pip install requests
+```
 
+```
 $ pip install stdiomask
+```
 
+```
 $ pip install bs4
+```
 
+```
 $ pip install rich
+```
 
+```
 $ pkg install play-audio 
+```
 
+```
 $ git clone https://github.com/Dhanz03/bruteFB 
+```
 
+```
 $ git pull 
+```
 
+```
 $ cd bruteFB 
+```
 
+```
 $ ls 
+```
 
+```
 $ python Udin-Sad.py
+```
 
 # COMAD KE 2 Boss
 
+```
 $ git clone https://github.com/Dhanz03/bruteFB
+```
 
+```
 $ git pull
+```
 
+```
 $ cd bruteFB
+```
 
+```
 $ python Udin3-XR.py
+```
 
 # git pull kalo Ga ke update coba setelah cd bruteFB Trus git pull 
 
