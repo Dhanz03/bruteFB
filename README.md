@@ -59,7 +59,7 @@ $ ls
 ```
 
 ```
-$ python Udin-Sad.py
+$ python Udin-Max.py
 ```
 
 # COMAD KE 2 Boss
