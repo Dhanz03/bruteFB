@@ -47,11 +47,11 @@ $ git clone https://github.com/Dhanz03/bruteFB
 ```
 
 ```
-$ git pull 
+$ cd bruteFB 
 ```
 
 ```
-$ cd bruteFB 
+$ git pull 
 ```
 
 ```
@@ -59,13 +59,17 @@ $ ls
 ```
 
 ```
-$ python Udin-Max.py
+$ python Udin-Mars.py
 ```
 
-# COMAD KE 2 Boss
+# COMAD KE 2 MASEHH 🔥
 
 ```
 $ git clone https://github.com/Dhanz03/bruteFB
+```
+
+```
+$ cd bruteFB 
 ```
 
 ```
@@ -73,14 +77,36 @@ $ git pull
 ```
 
 ```
-$ cd bruteFB
-```
-
-```
 $ python Udin3-XR.py
 ```
 
-# git pull kalo Ga ke update coba setelah cd bruteFB Trus git pull 
+# Update 2023 Terbaru Ada 12 Metod Login Facebook
+
+# Fitur?
+```
+-Nambah Ua Fres
+```
+```
+-Bisa gunakan User agent Manual
+```
+```
+-Crack File Lumayan Gacor
+```
+```
+-Mencari akun Game FF,ML,PUBG,Pau
+```
+```
+-Target Random Facebook Dari 2015-2023
+```
+```
+-Berkesempatan Target Game 😎
+```
+```
+-Beberapa Script Ada Penampil Apk Dan Ada juga Yang tidak
+```
+
+SELAMAT MENCOBA ALL SCRIPT EAS FACEBOOK 🚀
+
 
 # Update My Script Crack Facebook
 
