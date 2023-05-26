@@ -80,6 +80,28 @@ $ git pull
 $ python Udin3-XR.py
 ```
 
+# User agent Ua buat Crack manual Recommended Dari Udin 🌹
+
+1. 
+```
+Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.0.0 Mobile Safari/537.36
+```
+2. 
+```
+Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.0.0 Mobile Safari/537.36
+```
+3.
+```
+Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36
+```
+4.
+```
+Mozilla/5.0 (Macintosh; Intel Mac OS X 12_2_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.100 Safari/537.36
+```
+
+# ITULAH USER AGENT RECOMEND DARI UDIN SEMOGA MEMBANTU 🌹📂
+
+
 # Update 2023 Terbaru Ada 12 Metod Login Facebook
 
 # Fitur?
