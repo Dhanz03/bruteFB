@@ -59,7 +59,7 @@ $ ls
 ```
 
 ```
-$ python Udin-Mars.py
+$ python BruteFF.py
 ```
 
 # COMAD KE 2 MASEHH 🔥
