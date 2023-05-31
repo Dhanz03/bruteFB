@@ -1,10 +1,10 @@
 ```
-UPGRADE KE PREMIUM UNTUK MENCOBA SEMUA SCRIPT NYA ENJOY 📂
+UPGRADE SC Privat UNTUK MENCOBA SEMUA SCRIPT NYA ENJOY 📂
 ```
 
 # bruteFB 
 
-# User Premium Only 💖
+# User Private Only 💖
 
 ```
 $ pkg update && pkg upgrade
