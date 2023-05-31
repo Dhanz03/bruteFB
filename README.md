@@ -59,7 +59,7 @@ $ ls
 ```
 
 ```
-$ python BruteFF.py
+$ python BruteFesbuk.py
 ```
 
 # COMAD KE 2 MASEHH 🔥
@@ -77,7 +77,7 @@ $ git pull
 ```
 
 ```
-$ python Udin3-XR.py
+$ python BruteFF-XR.py
 ```
 
 # User agent Ua buat Crack manual Recommended Dari Udin 🌹
