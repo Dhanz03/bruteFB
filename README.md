@@ -59,7 +59,7 @@ $ ls
 ```
 
 ```
-$ python BruteFesbuk.py
+$ python BruteGame.py
 ```
 
 # COMAD KE 2 MASEHH 🔥
@@ -77,7 +77,7 @@ $ git pull
 ```
 
 ```
-$ python BruteFF-XR.py
+$ python BruteFF.py
 ```
 
 # User agent Ua buat Crack manual Recommended Dari Udin 🌹
@@ -106,7 +106,7 @@ Mozilla/5.0 (Macintosh; Intel Mac OS X 12_2_1) AppleWebKit/537.36 (KHTML, like G
 
 # Fitur?
 ```
--Nambah Ua Fres
+-Nambah Ua Fres Developer 
 ```
 ```
 -Bisa gunakan User agent Manual
@@ -121,7 +121,7 @@ Mozilla/5.0 (Macintosh; Intel Mac OS X 12_2_1) AppleWebKit/537.36 (KHTML, like G
 -Target Random Facebook Dari 2015-2023
 ```
 ```
--Berkesempatan Target Game 😎
+-Berkesempatan Target Game 😎 FF ak 2jt
 ```
 ```
 -Beberapa Script Ada Penampil Apk Dan Ada juga Yang tidak
