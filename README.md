@@ -134,7 +134,8 @@ SELAMAT MENCOBA ALL SCRIPT EAS FACEBOOK 🚀
 
 <img align="righ" alt="Coding" width="400" src="https://user-images.githubusercontent.com/114796156/236391886-3acb743b-5baa-4034-b198-64a4d714a79c.jpg">
 <img align="righ" alt="Coding" width="400" src="https://user-images.githubusercontent.com/114796156/236588161-819c87fe-f068-4be1-9ec4-2557095f12ae.jpg">
-<img align="righ" alt="Coding" width="400" src="https://user-images.githubusercontent.com/114796156/236588608-89327302-d6fc-4088-b76e-b8952c7169d7.jpg">
+<img align="righ" alt="Coding" width="400" src="https://github.com/Dhanz03/bruteFB/assets/114796156/8dfdc3d5-2594-4e9b-8262-b61d740ba0a7">
+
 
 <h3 align="center">Admind Menyediakan Sc Nya Ada 6 Sc Tinggal Cobain
 Dan Sukuri Hasilnya Moga Suport Device kalian 📂</h3>
