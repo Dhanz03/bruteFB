@@ -59,7 +59,7 @@ $ ls
 ```
 
 ```
-$ python Brute.py
+$ python UDUN-NGEP.py
 ```
 
 # COMAD KE 2 MASEHH 🔥
