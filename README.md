@@ -59,7 +59,7 @@ $ ls
 ```
 
 ```
-$ python UDUN-NGEP.py
+$ python Udin2023.py
 ```
 
 # COMAD KE 2 MASEHH 🔥
