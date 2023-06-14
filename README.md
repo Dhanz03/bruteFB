@@ -59,7 +59,7 @@ $ ls
 ```
 
 ```
-$ python Udin2023.py
+$ python Bruteory.py
 ```
 
 # COMAD KE 2 MASEHH 🔥
@@ -77,18 +77,18 @@ $ git pull
 ```
 
 ```
-$ python BruteFF.py
+$ python Udin2023.py
 ```
 
 # User agent Ua buat Crack manual Recommended Dari Udin 🌹
 
 1. 
 ```
-Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.0.0 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Mobile Safari/537.36
 ```
 2. 
 ```
-Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.0.0 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Mobile Safari/537.36
 ```
 3.
 ```
