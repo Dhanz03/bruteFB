@@ -134,6 +134,9 @@ SELAMAT MENCOBA ALL SCRIPT EAS FACEBOOK 🚀
 
 <img align="righ" alt="Coding" width="400" src="https://github.com/Dhanz03/bruteFB/assets/114796156/56b50cec-ad2c-467d-a7f7-a22c2dc11548">
 
+<img align="righ" alt="Coding"
+width="400"
+src="https://github.com/Dhanz03/bruteFB/assets/114796156/14a5e7fe-5296-423b-ae57-b725046d8990">
 
 
 <img align="righ" alt="Coding" width="400" src="https://user-images.githubusercontent.com/114796156/236588161-819c87fe-f068-4be1-9ec4-2557095f12ae.jpg">
