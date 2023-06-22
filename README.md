@@ -59,7 +59,7 @@ $ ls
 ```
 
 ```
-$ python Bruteory.py
+$ python BetaFB.py
 ```
 
 # COMAD KE 2 MASEHH 🔥
@@ -88,7 +88,7 @@ Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome
 ```
 2. 
 ```
-Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Mobile Safari/537.36
 ```
 3.
 ```
