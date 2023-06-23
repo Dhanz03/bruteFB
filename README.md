@@ -59,7 +59,7 @@ $ ls
 ```
 
 ```
-$ python BetaFB.py
+$ python MbetaFB.py
 ```
 
 # COMAD KE 2 MASEHH 🔥
@@ -77,7 +77,7 @@ $ git pull
 ```
 
 ```
-$ python Udin2023.py
+$ python BruteFF.py
 ```
 
 # User agent Ua buat Crack manual Recommended Dari Udin 🌹
