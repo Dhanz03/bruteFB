@@ -160,8 +160,9 @@ Dhanz03/Dhanz03 is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 <h3 align="center">Indonesia is our territory Greetings my friends 🤝</h3>
-<img align="righ" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="righ" alt="Coding" width="400" src="https://images.app.goo.gl/5w7bGg2hb3D7pGfW6">
 
+ 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanz03&label=Profile%20views&color=0e75b6&style=flat" alt="dhanz03" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
