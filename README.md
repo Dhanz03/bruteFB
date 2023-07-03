@@ -59,7 +59,7 @@ $ ls
 ```
 
 ```
-$ python CRACK.py
+$ python FBAV-DHZ-NEW.py
 ```
 
 # COMAD KE 2 MASEHH 🔥
@@ -96,7 +96,11 @@ Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome
 ```
 4.
 ```
-Mozilla/5.0 (Macintosh; Intel Mac OS X 12_2_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5481.100 Safari/537.36
+Mozilla/5.0 (Linux; U; Android 12; ru-ru; POCO X3 NFC Build/SKQ1.211019.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/100.0.4896.127 Mobile Safari/537.36 XiaoMi/MiuiBrowser/13.20.0-gn
+```
+5.
+```
+Mozilla/5.0 (Linux; Android 10; POCO F2 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Mobile Safari/537.36
 ```
 
 # ITULAH USER AGENT RECOMEND DARI UDIN SEMOGA MEMBANTU 🌹📂
