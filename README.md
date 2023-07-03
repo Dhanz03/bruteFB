@@ -1,6 +1,8 @@
 ```
 UPGRADE SC Privat UNTUK MENCOBA SEMUA SCRIPT NYA ENJOY 📂
 ```
+<img align="righ" alt="Coding" width="400" src="https://github.com/Dhanz03/bruteFB/assets/114796156/3846fc35-b312-4174-b06c-dcf60c828a16">
+
 
 # bruteFB 
 
