@@ -61,7 +61,7 @@ $ ls
 ```
 
 ```
-$ python FBAV-DHZ-NEW.py
+$ python Mang-UD.py
 ```
 
 # COMAD KE 2 MASEHH 🔥
