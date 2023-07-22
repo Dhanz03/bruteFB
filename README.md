@@ -5,6 +5,8 @@ UPGRADE SC Privat UNTUK MENCOBA SEMUA SCRIPT NYA ENJOY 📂
 
 <img align="righ" alt="Coding" width="400" src="https://github.com/Dhanz03/bruteFB/assets/114796156/9c5f2669-eda7-45a2-b216-799471b7ebdc">
 
+<img align="righ" alt="Coding" width="400" src="https://github.com/Dhanz03/bruteFB/assets/114796156/1d65c2ab-d092-48ae-8ec8-adddaa55b346">
+
 
 # bruteFB 
 
